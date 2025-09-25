@@ -53,12 +53,33 @@ Som’s Boutique is a responsive, multi-page website for a fashion boutique. The
 
 ---
 
+# References
+
+1. **W3Schools** – [https://www.w3schools.com/](https://www.w3schools.com/)  
+   Used for HTML, CSS, and responsive design tutorials and code examples.
+
+2. **MDN Web Docs** – [https://developer.mozilla.org/](https://developer.mozilla.org/)  
+   Referenced for HTML5, CSS3, and accessibility best practices.
+
+3. **Google Fonts** – [https://fonts.google.com/](https://fonts.google.com/)  
+   Used for font inspiration and implementation.
+
+4. **Unsplash** – [https://unsplash.com/](https://unsplash.com/)  
+   Used for placeholder images and product photography.
+
+5. **Font Awesome** – [https://fontawesome.com/](https://fontawesome.com/)  
+   Used for icon ideas and implementation (if any icons are used).
+
+6. **Stack Overflow** – [https://stackoverflow.com/](https://stackoverflow.com/)  
+   Used for troubleshooting and code solutions.
+
+7. **Color Hunt** – [https://colorhunt.co/](https://colorhunt.co/)  
+   Used for color palette inspiration.
+
+
+
 ## Credits
 
-Designed and developed for the WEDE5020 Project, 2025.
-
----
-
-## License
+Designed and developed for the WEDE5020 Project, 2025
 
 This project is for educational purposes.
